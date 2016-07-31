@@ -22,7 +22,7 @@
   "version": "1.0.1",
 
   "dependencies": {
-    "strtok": "0.1.1"
+    "strtok": "mobi2go/node-strtok"
   },
 
   "licenses" : [
